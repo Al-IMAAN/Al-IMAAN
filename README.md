@@ -1,7 +1,7 @@
 Hi, My name is AL IMAAN J
 ===========================
 
-Python developer, ambitious to develop and create innovative projects !
+Python developer!
 ----------------------------------------------------------
 
 * 🌍  I'm based in Tamilnadu
